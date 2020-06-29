@@ -49,5 +49,3 @@ const getData = async (csv) => {
   return { xs, ys };
 };
 chartIt("csv/TechCrunchcontinentalUSA.csv");
-
-///////////////////////SOme ONESkfsdf
